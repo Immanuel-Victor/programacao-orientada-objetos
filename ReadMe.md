@@ -2,11 +2,11 @@
 
 ## Objetivo:
 
-Olá esse repositório serve para estudar e aprender conceitos de programação orientada a objetos utilizando JavaScript como a linguagem principal desse repositório.
+Olá esse repositório serve para estudar e aprender conceitos de programação orientada a objetos utilizando JavaScript como a linguagem principal desse repositório. Sinta-se livre para submeter "Pull Requests" corrigindo erros, contanto que haja um comentário descritivo e explicativo acerca do que está errado, e submeter seus próprios arquivos atravez delas, como na pasta "projetos" que será discutida mais a frente
 
 ## Como usar esse repositório:
 
-Esse repositório será divido em alguns arquivos, cada um baseando-se nos 4 pilares da programação orientada a objetos sendo esses, sinta-se livre para submeter Pull Requests corrigindo erros, contanto que haja um comentário descritivo e explicativo acerca do que está errado, e submeter seus próprios arquivos atravez delas, como na pasta Projetos que será discutida mais a frente: 
+Esse repositório será divido em alguns arquivos, cada um baseando-se nos 4 pilares da programação orientada a objetos sendo esses: 
 
 ### Encapsulamento:
 
